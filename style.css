@@ -1,0 +1,77 @@
+
+body {
+background-color: rgb(2, 2, 19);
+border-color: greenyellow;
+border-width: 3px;
+}
+
+h1 {
+margin-left: 265px;
+color: rgb(248, 245, 245);
+font-size: 40px;
+margin-top: 120px;
+background-color: rgb(47, 49, 44);
+border-style: solid;
+border-width: 5px;
+border-color: greenyellow;
+border-radius: 7px;
+height: 50px;
+width: 470px;
+text-align: center;
+vertical-align: 140px;
+}
+
+select {
+font-size: 25px;
+border-radius: 10px;
+padding: 5px;
+border-color: greenyellow;
+border-width: 5px;
+margin-top: 50px;
+}
+
+label {
+font-size: 30px;
+}
+
+form {
+margin-left: 250px;
+margin-top: 150px;
+font-size: 30px;
+color: rgb(245, 241, 241);
+border-style: solid;
+border-color: greenyellow;
+border-width: 5px;
+border-radius: 7px;
+background-color: rgb(47, 49, 44);
+height: 570px;
+width: 500px;
+align-items: center;
+text-align: center;
+}
+
+input {
+padding: 5px;
+font-size: 25px;
+border-radius: 10px;
+width: 100px;
+border-color: greenyellow;
+border-width: 5px;
+margin-top: 30px;
+}
+
+button {
+color: rgb(17, 17, 17);
+font-size: 25px;
+border-radius: 10px;
+border-style: solid;
+height: 50px;
+border-color: greenyellow;
+border-width: 5px;
+}
+
+button:hover {
+color: rgb(246, 250, 250);
+background-color: rgb(167, 8, 8);
+border-radius: 10px;
+}
